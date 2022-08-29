@@ -64,6 +64,38 @@ The initial project was based on information from Brazil, but with everyone's co
 - מיטאַרבעטן הילף קאָד
 - Kodigo ti Tulong ti Agtitinnulong
 - Kode Bantuan Berkolaborasi
-
-
-O projeto inicial tem em sua base informações do Brasil, mas comm a colaboração de todos a expansão será certa.
+- Ṣe ifowosowopo koodu Iranlọwọ
+- Comhoibrigh Cód Cabhrach
+- Samvinnuhjálparkóði
+- Codice di aiuto per la collaborazione
+- コラボレーション ヘルプ コード - Koraborēshon herupu kōdo
+- Kode Bantuan Kolaborasi
+- Kpekpeɖeŋunana ƒe Sedede si Wowɔ Ðekae
+- សហការលេខកូដជំនួយ
+- Kɔlabɔt Ɛp Kɔd
+- ຮ່ວມມືລະຫັດຊ່ວຍເຫຼືອ
+- Auxilium Collaborate Code
+- Sadarbības palīdzības kods
+- Kosala elongo Code ya Lisalisi
+- Bendradarbiavimo pagalbos kodas
+- Koodi y’Obuyambi mu kukolagana
+- Zesummenaarbecht Hëllef Code
+- Код за помош за соработка
+- सहयोग सहायता कोड
+- സഹായ കോഡ് സഹകരിക്കുക
+- Kod Bantuan Bekerjasama
+- Ikkollabora Kodiċi ta' Għajnuna
+- Waehere awhina mahi tahi
+- सहयोग मदत कोड
+- ꯀꯣꯂꯥꯕꯣꯔꯦꯠ ꯇꯧꯕꯥ ꯍꯦꯜꯄ ꯀꯣꯗ꯫
+- Hnathawhhona Help Code
+- Хамтран ажиллах тусламжийн код
+- सहयोग कोड
+- Hjelpekode for samarbeid
+- ସହଯୋଗ କୋଡ୍ ସହଯୋଗ କରନ୍ତୁ |
+- Koodii Gargaarsaa Tumsaa
+- د مرستې کوډ سره همکاري وکړئ
+- کد راهنمای همکاری
+- Kod pomocy dla współpracy
+- ਕੋਲਾਬੋਰ ਅਜੂਡ ਏ ਕੋਡੀਫਿਕਰ
+- 
