@@ -1,6 +1,8 @@
 # geekou-github-geeks
-Starting Geekou Project - 
-The initial project was based on information from Brazil, but with everyone's collaboration, the expansion will be certain.
+
+Iniciando Projeto Geekou - O projeto inicial foi baseado em informações do Brasil, mas com a colaboração de todos, a expansão será certa.
+Starting Geekou Project - The initial project was based on information from Brazil, but with everyone's collaboration, the expansion will be certain.
+Inicio del Proyecto Geekou - El proyecto inicial se basó en información de Brasil, pero con la colaboración de todos, la expansión será segura.
 
 - Colabore Ajude a Codar
 - Collaborate Help Code
