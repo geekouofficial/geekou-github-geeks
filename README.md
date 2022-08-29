@@ -1,5 +1,7 @@
 # geekou-github-geeks
-Starting Geekou Project 
+Starting Geekou Project - 
+The initial project was based on information from Brazil, but with everyone's collaboration, the expansion will be certain.
+
 - Colabore Ajude a Codar
 - Collaborate Help Code
 - Código de ayuda de Collaborate
