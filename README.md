@@ -100,4 +100,38 @@
 - کد راهنمای همکاری
 - Kod pomocy dla współpracy
 - ਕੋਲਾਬੋਰ ਅਜੂਡ ਏ ਕੋਡੀਫਿਕਰ
-- 
+- Colabore Ajude huk Codificar nisqa
+- Gufatanya Kode Yubufasha
+- Кызматташуу Жардам коду
+- Cod de ajutor pentru colaborare
+- Код справки для совместной работы
+- Galulue Fesoasoani Code
+- सहयोग करें सहायता संहिता
+- Khoutu ya Thušo ya Tirišana
+- Цоллаборате Хелп Цоде
+- Khoutu ea Thuso e sebelisanang
+- تعاون ڪريو مدد ڪوڊ
+- Iskaashi Koodhka Caawinta
+- Shiriki Msimbo wa Usaidizi
+- Hjälpkod för samarbete
+- Kolaborasi Kode Pitulung
+- Кодекси кӯмаки ҳамкорӣ
+- รหัสช่วยเหลือการทำงานร่วมกัน
+- உதவிக் குறியீட்டை ஒத்துழைக்கவும்
+- Ярдәм коды
+- Kód nápovědy pro spolupráci
+- సహాయ కోడ్‌ను సహకరించండి
+- ናይ ሓገዝ ኮድ ምትሕብባር
+- Khodi ya Mpfuneto wa Ntirhisano
+- İşbirliği Yardım Kodu
+- Bilelikdäki kömek kody
+- Mmoa Mmara a Wɔbom Yɛ Adwuma
+- Код довідки Collaborate
+- ياردەم كودى
+- تعاون کا کوڈ
+- Hamkorlik yordam kodi
+- Cộng tác Mã trợ giúp
+- IKhowudi yoNcedo yokusebenzisana
+- Hlanganyela Ikhodi Yosizo
+
+--- Use Google Translate --
