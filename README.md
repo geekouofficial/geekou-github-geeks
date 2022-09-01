@@ -4,7 +4,7 @@
 - Starting Geekou Project. The initial project was based on information from Brazil, but with everyone's collaboration, the expansion will be certain.
 - Inicio del Proyecto Geekou. El proyecto inicial se basó en información de Brasil, pero con la colaboración de todos, la expansión será segura.
 
-- Colabore Ajude a Codar
+- Colabore Ajude a Codificar
 - Collaborate Help Code
 - Código de ayuda de Collaborate
 - Collaborer Aide Codar
