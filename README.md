@@ -7,6 +7,7 @@
 - Colabore Ajude a Codar
 - Collaborate Help Code
 - Código de ayuda de Collaborate
+- Collaborer Aide Codar
 - Saamwerk-hulpkode
 - Colaborar Yanapt’äwinak Código
 - Kodi i Ndihmës së Bashkëpunimit
